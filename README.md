@@ -1,1 +1,3 @@
 # WebStockCheck
+これはテストですよ
+
